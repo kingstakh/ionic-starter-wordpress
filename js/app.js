@@ -12,7 +12,7 @@ angular.module( 'starter', [
 ] )
 
 .constant( '$config', {
-  apiRoot: 'http://api.wp-app.org/wp-json/wp/v2'
+  apiRoot: 'http://1871.by/wp-json/wp/v2'
 } )
 
 .run( function( $ionicPlatform ) {
